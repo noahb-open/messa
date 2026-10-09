@@ -1,13 +1,13 @@
 {
-  "name": "blue-rocket-chat",
+  "name": "Messa",
   "version": "1.0.0",
-  "description": "",
+  "description": "pretty damn good",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Noah buchanan",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
